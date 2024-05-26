@@ -45,10 +45,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/wachawich/wachawich/output/snake.svg" alt="Snake animation" />
-
-###
 <!--
 **wachawich/wachawich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
