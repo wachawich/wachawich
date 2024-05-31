@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fpandas-logo-vector-svg-png-free-download-22087.html&psig=AOvVaw1bb0vjtqPVXZo1MMjmn_Hv&ust=1717243008318000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiX3u7qt4YDFQAAAAAdAAAAABAT" height="40" alt="kaggle logo"  />
 </div>
 
 ###
