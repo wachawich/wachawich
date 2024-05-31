@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
-  <img src="https://media.discordapp.net/attachments/1242139471307079780/1246070415416234097/pandas8580.png?ex=665b0d01&is=6659bb81&hm=16dda78e8e7002142aeee943b0227d8441e509f51e583830618bab0768cc321d&=&format=webp&quality=lossless&width=882&height=662" height="40" alt="pandas logo"  />
+  <img src="https://media.discordapp.net/attachments/1242139471307079780/1246070986928033822/1535px-Pandas_mark.png?ex=665b0d8a&is=6659bc0a&hm=6cd6496fb5b6b2f56b2d6eb1411119f4027a1b20603188867a92e9fef7037065&=&format=webp&quality=lossless&width=496&height=600" height="40" alt="pandas logo"  />
 </div>
 
 ###
