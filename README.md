@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I'm @Wachirawit Premthaisong<br>- 🌱 I like to work in data science using tools like Pandas, Matplotlib, and sklearn<br>- 🏫 I'm studying at King Mongkut's University of Technology Thonburi</p>
+<p align="left">- 👋 Hi, I'm @Wachirawit Premthaisong<br>- 🌱 I like to work in data science using tools and sklearn<br>- 🏫 I'm studying at King Mongkut's University of Technology Thonburi</p>
 
 ###
 
