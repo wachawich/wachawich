@@ -1,3 +1,4 @@
+
 <h1 align="left">Hi, I'm Wachirawit 👋</h1>
 
 ###
@@ -6,7 +7,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I'm @Wachirawit Premthaisong<br>- 🌱 I like to work in data science using tools and sklearn<br>- 🏫 I'm studying at King Mongkut's University of Technology Thonburi</p>
+<p align="left">- 👋 Hi, I'm @Wachirawit Premthaisong<br>- 🏫 I'm studying at King Mongkut's University of Technology Thonburi</p>
 
 ###
 
@@ -52,17 +53,22 @@
 - guy.wpth@gmail.com
 
 ###
-<!--
-**wachawich/wachawich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hall of Frame
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Super AI Engineer
+- House
+	- 2nd Runner Up Table-based ThaiQA Hackathon
+	- 2nd Runner Up Legal Act Classification Hackathon
+	- Special award Brain Motor Imagery Classification Hackathon
+	- 1st Runner Up  Home Credit-Credit Risk Modeling Hackathon
+-  Individual
+   - 6th Nithan Chadok Hybrid OCR-NER 
+   - 11th Image Search
+   - 11th ThaiJO RESEARCHER
+   - 51th Nithan Chadok Name Entity Recognition
+#### Web & App & Logical
+- 1st runner up Web design and development contest "Gamer to coder 2022"
+- Silver Medal ACS Competition
+- 1st Scientific Inventions high school  Automatic garbage collection robot
+ 
