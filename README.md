@@ -3,14 +3,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- 👋 Hi, I'm @Wachirawit Premthaisong<br>- 🏫 I'm studying at King Mongkut's University of Technology Thonburi</p>
-
-###
-
 <h2 align="left">My skill</h2>
 
 ###
