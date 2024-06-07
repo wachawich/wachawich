@@ -24,9 +24,6 @@
   <img width="12" />
   <img src="https://media.discordapp.net/attachments/1242139471307079780/1246070986928033822/1535px-Pandas_mark.png?ex=665b0d8a&is=6659bc0a&hm=6cd6496fb5b6b2f56b2d6eb1411119f4027a1b20603188867a92e9fef7037065&=&format=webp&quality=lossless&width=496&height=600" height="40" alt="pandas logo"  />
     <img width="12" />
-  <img src="https://media.discordapp.net/attachments/1242139471307079780/1246071320232329306/2048px-Created_with_Matplotlib-logo.png?ex=665b0dd9&is=6659bc59&hm=50a26a59c361bb9d96018102c296ad9a435ca1de7850492dc8305a820b198d2b&=&format=webp&quality=lossless&width=662&height=662" height="40" alt="pandas logo"  />
-    <img width="12" />
-  <img src="https://media.discordapp.net/attachments/1242139471307079780/1246071403816423475/2560px-Scikit_learn_logo_small.png?ex=665b0ded&is=6659bc6d&hm=c360da5567bc3598c274daaab1c438ada4c977fe645d0ac3a34dccdcd5f7368e&=&format=webp&quality=lossless&width=1231&height=662" height="40" alt="pandas logo"  />
 </div>
 
 ###
