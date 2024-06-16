@@ -56,6 +56,9 @@
    - 11th Image Search
    - 11th ThaiJO RESEARCHER
    - 51th Nithan Chadok Name Entity Recognition
+-  Individual Final Hackathon
+   - 8th NLP: Nithan Chadok Hybrid OCR-NER	 
+   - 32th Computer Vision: License Plate Recognition
 #### Web & App & Logical
 - 1st runner up Web design and development contest "Gamer to coder 2022"
 - Silver Medal ACS Competition
