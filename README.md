@@ -28,7 +28,7 @@
 -->
 <h2 align="left">My skill</h2>
 
-<h3 align="left">AI</h3>
+###AI
    ![Static Badge](https://img.shields.io/badge/Linux-%23ffffff?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&labelColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Python-%23ECD53F?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto&labelColor=%233B66BC)
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F46D01?style=for-the-badge&logo=jupyter&logoColor=%23F46D01&logoSize=auto&labelColor=%23000000)
