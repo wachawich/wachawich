@@ -32,11 +32,20 @@
 ![Static Badge](https://img.shields.io/badge/Linux-%23ffffff?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&labelColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Python-%23ECD53F?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto&labelColor=%233B66BC)
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F46D01?style=for-the-badge&logo=jupyter&logoColor=%23F46D01&logoSize=auto&labelColor=%23000000)
+![Static Badge](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn&logoColor=%23FF9E0F&labelColor=%230096D6)
+![Static Badge](https://img.shields.io/badge/Machine--learning-%23000B1D?style=for-the-badge&logoColor=%23FF9E0F&logoSize=auto&labelColor=%2340AEF0)
+![Static Badge](https://img.shields.io/badge/Data--science--tools-%239999FF?style=for-the-badge&logoColor=%23FF9E0F&logoSize=auto&labelColor=%2340AEF0)
+![Static Badge](https://img.shields.io/badge/LLM-%23615EFF?style=for-the-badge&logoColor=%23FF9E0F&logoSize=auto&labelColor=%2340AEF0)
+![Static Badge](https://img.shields.io/badge/Langchain-%231C3C3C?style=for-the-badge&logo=langchain&logoColor=%23ffffff&logoSize=auto&labelColor=%231C3C3C)
+![Static Badge](https://img.shields.io/badge/Image--Processing-%231E5397?style=for-the-badge&logoColor=%23ffffff&logoSize=auto&labelColor=%231C3C3C)
+
+
+
+
 
 ### Web Development
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
