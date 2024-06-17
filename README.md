@@ -28,11 +28,12 @@
 -->
 <h2 align="left">My skill</h2>
 
-![Static Badge](https://img.shields.io/badge/Linux-%23ffffff?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&labelColor=%23ffffff)
+<h3 align="left">AI</h3>
+   ![Static Badge](https://img.shields.io/badge/Linux-%23ffffff?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&labelColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Python-%23ECD53F?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto&labelColor=%233B66BC)
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F46D01?style=for-the-badge&logo=jupyter&logoColor=%23F46D01&logoSize=auto&labelColor=%23000000)
 
-
+<h3 align="left">Web Development</h3>
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -42,6 +43,7 @@
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
+<h3 align="left">Tools</h3>
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
