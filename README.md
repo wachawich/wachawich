@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Wachirawit 👋</h1>
 
 ###
-<!---->
+<!--
 <h2 align="left">My skill</h2>
 
 ###
@@ -22,11 +22,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
-  <!--<img src="https://media.discordapp.net/attachments/1242139471307079780/1246070986928033822/1535px-Pandas_mark.png?ex=665b0d8a&is=6659bc0a&hm=6cd6496fb5b6b2f56b2d6eb1411119f4027a1b20603188867a92e9fef7037065&=&format=webp&quality=lossless&width=496&height=600" height="40" alt="pandas logo"  />
-    <img width="12" /> -->
+  <img src="https://media.discordapp.net/attachments/1242139471307079780/1246070986928033822/1535px-Pandas_mark.png?ex=665b0d8a&is=6659bc0a&hm=6cd6496fb5b6b2f56b2d6eb1411119f4027a1b20603188867a92e9fef7037065&=&format=webp&quality=lossless&width=496&height=600" height="40" alt="pandas logo"  />
+    <img width="12" />
 </div>
-<!---->
+-->
 
+![Static Badge](https://img.shields.io/badge/Linux-%23ffffff?style=for-the-badge&logo=linux&logoColor=black&logoSize=auto&labelColor=%23ffffff)
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
