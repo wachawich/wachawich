@@ -88,8 +88,10 @@
 -  Individual Final Hackathon
    - 8th NLP: Nithan Chadok Hybrid OCR-NER	 
    - 32th Computer Vision: License Plate Recognition
+#### Hackathon
+- 1st runner up : Mitr Phol AI Hackathon - Mitr Phol YES Talent Camp 2024 -> 75,000 bath
 #### Web & App & Logical
-- 1st runner up Web design and development contest "Gamer to coder 2022"
+- 1st runner up Web design and development contest "Gamer to coder 2022" -> 20,000 bath
 - Silver Medal ACS Competition
 - 1st Scientific Inventions high school  Automatic garbage collection robot
  
