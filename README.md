@@ -76,7 +76,7 @@
 
 #### Super AI Engineer
 
-![SuperAI](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SuperAI](https://github.com/wachawich/wachawich/blob/main/image/402882.png)
 
 - House
 	- 2nd Runner Up Table-based ThaiQA Hackathon
