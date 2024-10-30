@@ -75,6 +75,9 @@
 # Hall of Frame
 
 #### Super AI Engineer
+
+![SuperAI](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 - House
 	- 2nd Runner Up Table-based ThaiQA Hackathon
 	- 2nd Runner Up Legal Act Classification Hackathon
