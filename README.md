@@ -26,6 +26,8 @@
     <img width="12" />
 </div>
 -->
+
+<!--
 <h2 align="left">My skill</h2>
 
 ### AI <br/>
@@ -57,10 +59,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ###
-<!-- <h2 align="left">Languages that i use often</h2>
+ <h2 align="left">Languages that i use often</h2>
 
 ###
--->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wachawich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -71,6 +73,8 @@
 - guy.wpth@gmail.com
 
 ###
+
+-->
 
 # Hall of Frame
 
